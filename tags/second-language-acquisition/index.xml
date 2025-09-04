@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Second Language Acquisition on Introtopsycholinguistics</title>
+    <link>http://localhost:1313/psycholin/tags/second-language-acquisition/</link>
+    <description>Recent content in Second Language Acquisition on Introtopsycholinguistics</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/psycholin/tags/second-language-acquisition/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week 14: Bilingual Minds</title>
+      <link>http://localhost:1313/psycholin/week14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/psycholin/week14/</guid>
+      <description>Examines how bilingual individuals manage two languages during comprehension and production, the cognitive consequences of bilingualism, and models of bilingual language control.</description>
+    </item>
+  </channel>
+</rss>
