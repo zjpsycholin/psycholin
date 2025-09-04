@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Speech Production on Introtopsycholinguistics</title>
+    <link>https://zhangjunfelix.github.io/psycholin/tags/speech-production/</link>
+    <description>Recent content in Speech Production on Introtopsycholinguistics</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://zhangjunfelix.github.io/psycholin/tags/speech-production/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week 2: Speech Planning &amp; Errors I</title>
+      <link>https://zhangjunfelix.github.io/psycholin/week02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://zhangjunfelix.github.io/psycholin/week02/</guid>
+      <description>Examines the stages of speech planning, evidence from slips of the tongue, and models like spreading activation and lemma theory.</description>
+    </item>
+  </channel>
+</rss>

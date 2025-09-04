@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Event Indexing on Introtopsycholinguistics</title>
+    <link>https://zhangjunfelix.github.io/psycholin/tags/event-indexing/</link>
+    <description>Recent content in Event Indexing on Introtopsycholinguistics</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://zhangjunfelix.github.io/psycholin/tags/event-indexing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week 7: 🧩 Sentence Processing I</title>
+      <link>https://zhangjunfelix.github.io/psycholin/week07/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://zhangjunfelix.github.io/psycholin/week07/</guid>
+      <description>How the mind builds sentence structure in real time: garden-path effects, core parsing heuristics (Minimal Attachment, Late Closure), and why sentences sometimes trick us.</description>
+    </item>
+  </channel>
+</rss>
