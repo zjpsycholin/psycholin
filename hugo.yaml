@@ -1,11 +1,10 @@
-baseURL: "https://example.org/"
+baseURL: "https://zjpsycholin.github.io/psycholin/"
 languageCode: "en-us"
 title: "Introtopsycholinguistics"
 theme: "xmin"
 
 
 
-baseURL: "https://zhangjunfelix.github.io/psycholin/"
 canonifyURLs: true
 relativeURLs: false
 
@@ -16,7 +15,7 @@ menu:
       url: "/"
       weight: 1
     - name: "Syllabus"
-      url: "/syllabus/"
+      url: "syllabus/"
       weight: 2
     - name: "Week-01"
       url: "/week01/"
@@ -28,7 +27,7 @@ menu:
       url: "/week03/"
       weight: 5
     - name: "Week-04"
-      url: "/week04/"
+      url: "week04/"
       weight: 6
     - name: "Week-05"
       url: "/week05/"

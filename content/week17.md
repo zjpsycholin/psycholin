@@ -1,9 +1,15 @@
 ---
-title: "Week 17: 🧾 Reflections and Wrap-Up"
+title: "Week 17: Reflections and Wrap-Up"
 type: "post"
 weight: 17
 ---
 
+
+
+
+
+
+<!--
 ## 🎯 Overview
 
 As we approach the end of the course, this week offers time to reflect on what you've learned, how your thinking has evolved, and how psycholinguistics connects with your academic and personal interests. We’ll also discuss big-picture questions, review course themes, and gather your feedback to improve future iterations of this course.
@@ -75,3 +81,4 @@ Your responses are **confidential** and help improve future versions of this cou
 
 You’ve reached the end of *Introduction to Psycholinguistics*. Whether you’re continuing in linguistics, psychology, education, or another field, we hope this course has helped you see language as a rich and fascinating window into the human mind.
 
+-->

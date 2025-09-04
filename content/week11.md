@@ -1,6 +1,5 @@
 ---
 title: "Week 11: Nonliteral Language – Metaphor & Idioms"
-date: 2025-06-27T11:10:00-04:00
 tags: ["nonliteral language", "metaphor", "idioms", "embodied cognition", "pragmatics"]
 summary: "Explores how we understand metaphors, idioms, and other nonliteral language through pragmatic, cognitive, and neural perspectives."
 ---

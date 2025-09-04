@@ -1,141 +1,271 @@
 ---
-title: "Week 1: What is Psycholinguistics?"
-date: 2025-04-18T11:10:00-04:00
+title: "🧠 Week 1: What is Psycholinguistics?"
 tags: ["introduction", "language science", "research methods"]
 summary: "Explores the foundations of psycholinguistics, including what it studies, how it’s scientific, and why it’s interdisciplinary."
 ---
 
 
+## 📘 Overview
+Welcome to *Introduction to Psycholinguistics*! This week, we begin by exploring what psycholinguistics is, what questions it asks, and how it connects to other fields. You’ll learn about what makes human language unique and how language relates to cognition, evolution, and communication.
 
+We’ll also discuss myths about language, compare human and non-human communication systems, and learn how language may (or may not) shape the way we think.
+
+---
+
+## 🎯 Learning Goals
+By the end of Week 1, you should be able to:
+- Define psycholinguistics and identify its major areas of study.
+- Describe the six core design features of human language.
+- Distinguish between descriptive and prescriptive grammar with examples.
+- Discuss the continuity vs. discontinuity debate in language evolution.
+- Evaluate whether animals can "use language" as humans do.
+
+---
+
+## 📖 Required Reading
+- **Chapter 1 (pp. 1–28)** from *Introduction to Psycholinguistics: Understanding Language Science* (1st ed.) by Matthew Traxler.
+
+---
+
+## ❗ Key Issues
+
+### 1) What is Psycholinguistics?
+Psycholinguistics studies **how language is processed and represented in the mind**—how we comprehend, produce, and acquire language. It draws on **linguistics (structure)**, **cognitive psychology (mental processes)**, **neuroscience (brain systems)**, and **philosophy (meaning & thought)**.  
+**Guiding questions:** How do we understand and produce speech? How do children acquire language? What brain areas support language? Can animals learn language?
+
+---
+
+### 2) Hockett’s Design Features of Language
+| Feature | Definition | Example |
+|---|---|---|
+| **Semanticity** | Signals carry specific meanings | “Dog” / 狗 refers to a specific animal |
+| **Arbitrariness** | No inherent link between form & meaning | “Dog” ≠ “gǒu” ≠ “perro” |
+| **Discreteness** | Distinct units compose language | English /b/ vs /p/; Mandarin tones 妈/麻/马/骂 |
+| **Displacement** | Talk about things not here/now | “I was in Paris last year” |
+| **Duality of Patterning** | Meaningless sounds combine into meaningful words | /k/ + /æ/ + /t/ → “cat” |
+| **Generativity** | Finite rules → infinite sentences | “The cat that chased the rat …” |
+
+---
+
+### 3) Descriptive vs. Prescriptive Grammar
+- **Descriptive grammar**: What speakers actually say and understand in real life.
+- **Prescriptive grammar**: Rules about what people *should* say in formal contexts.
+- Why this matters: Psycholinguistics seeks to explain **mental grammar** and real usage, so descriptive patterns are crucial.
+
+---
+
+### 4) Can Animals Use Language?
+Case studies:
+- **Nim Chimpsky** (ASL-trained chimp): mostly **requests**, limited combinations.
+- **Kanzi** (bonobo, lexigrams): understands many **spoken English** commands.
+Takeaway: Impressive communication, but **limited syntax, recursion, and generativity** compared to humans.
+
+---
+
+### 5) Evolution of Language: Continuity vs. Discontinuity
+- **Continuity**: Human language **evolved gradually** from simpler systems.
+- **Discontinuity**: Language is a **qualitative leap**, uniquely human, requiring new cognitive/biological mechanisms.
+Evidence includes ape communication, vocal tract/brain adaptations, and cultural emergence of grammar (e.g., creoles, sign languages).
+
+---
+
+## 📚 Essential Terms (EN ⇄ 中文)
+- **Psycholinguistics 心理语言学** — mental processes in language use  
+- **Semanticity 语义性**, **Arbitrariness 任意性**, **Discreteness 离散性**  
+- **Displacement 移位性**, **Duality of Patterning 双重结构性**, **Generativity 生成性**  
+- **Descriptive Grammar 描写语法** / **Prescriptive Grammar 规定语法**  
+- **Recursion 递归** — embedding structures (clauses within clauses)
+
+---
+
+## ✅ Before Class (Prep Checklist)
+1. **Read** Ch. 1 (pp. 1–28). As you read, mark examples of each **design feature**.
+2. **Language Belief Survey**: jot down quick opinions on (i) dialects & “correctness”, (ii) animal language, (iii) whether language shapes thought.
+3. **Optional video (5 min)**: [Kanzi the Bonobo Demonstrates Lexigrams](https://www.youtube.com/watch?v=HJZ9DgRGF9U).
+
+---
+
+## 🏫 In-Class Plan (90 min)
+- **📝 Language Myths Quiz (10')** — Pairs choose T/F; quick justifications.
+- **📊 Student Survey (10')** — Goals, examples from EN/CN, prior linguistics exposure.
+- **💬 Mini-Lecture (25')** — Hockett’s features with English–Chinese examples; quick cold calls.
+- **🧩 Descriptive vs. Prescriptive (15')** — Decide which is “correct” descriptively vs prescriptively:
+  - “Who did you give the book to?” / “To whom did you give the book?”
+  - “She be singing.” (AAVE habitual)
+- **🐒 Case Study Huddle (15')** — Nim vs. Kanzi: does this count as “language”? Why / why not?
+- **🧠 Exit Ticket (5')** — One surprise + one question.
+
+---
+
+## 🔁 After Class (Review & Retrieval)
+1. **Worksheet** — Week 1 Knowledge Check (design features; grammar types; recursion; ape studies).
+2. **Reflection (≤120 words)** — What changed in your view of language today?
+3. **Optional enrichment**  
+   - BBC: *Talking gorilla?* (Koko)  
+   - 60 Minutes: *Koko the Gorilla Signs*  
+   - Language Log: *Pullum on the “Eskimo snow words” myth*  
+   - Steven Pinker: *Linguistics & the Brain* (short talk)
+
+---
+
+## 🏠 Homework
+- Re-read key sections (design features; grammar; apes).
+- *Test Yourself* (Ch. 1): **Q1** (features), **Q2** (grammar), **Q4** (recursion), **Q6** (animal language).
+- **Think About It (~150 words)**:  
+  *Imagine a new primate species. What behaviors would convince you they have language?* Be specific about **syntax**, **recursion**, **displacement**, and **generativity**.
+
+---
+
+## 🧩 Mini-FAQ
+- **Does onomatopoeia disprove arbitrariness?** Not really—forms differ across languages and aren’t systematic.
+- **Is “wrong grammar” ungrammatical?** Not necessarily. Descriptive grammar captures what speakers **actually** do, including dialects.
+- **If Pirahã lacks recursion, is recursion not universal?** The debate is ongoing; treat claims cautiously and look at broader evidence.
+
+---
+
+## 🧭 Looking Ahead
+**Week 2–3: Speech Planning & Errors (Ch. 2, pp. 37–51).**  
+Bring one real slip of the tongue you notice during the week (yours or someone else’s)!
+
+
+<!--
 ## 📘 Overview
 
-Psycholinguistics is the scientific study of the mental mechanisms that make language possible. This week introduces the field by exploring its scope, questions, and why language—something seemingly effortless in daily life—is actually an incredibly complex human ability. We examine what psycholinguists study, how they study it, and what kinds of questions guide their research.
+Welcome to *Introduction to Psycholinguistics*! This week, we begin by exploring what psycholinguistics is, what questions it asks, and how it connects to other fields. You’ll learn about what makes human language unique and how language relates to cognition, evolution, and communication.
+
+We’ll also discuss myths about language, compare human and non-human communication systems, and learn how language may (or may not) shape the way we think.
 
 ---
 
-## 🧠 Core Concepts
+## 🎯 Learning Goals
 
-### What Is Psycholinguistics?
+By the end of Week 1, you should be able to:
 
-- Psycholinguistics = psychology + linguistics.
-- It studies how humans **produce**, **comprehend**, **acquire**, and **represent** language mentally.
-
-### Why Study Language Scientifically?
-
-- Language feels natural but is **cognitively complex**.
-- Language processing happens **rapidly and unconsciously**, which makes it a great window into how the mind works.
-- The **scientific method** helps psycholinguists form and test hypotheses about how language works in real time.
-
-### Key Research Goals
-
-Psycholinguists ask questions like:
-
-- What **knowledge** do people have about their language?
-- How is that knowledge **used** in speaking, listening, and reading?
-- How is language **acquired** by children or second language learners?
-- How is language **represented** in the brain?
-
-### Levels of Language
-
-Psycholinguistics investigates language at multiple levels:
-
-| Level         | Description |
-|---------------|-------------|
-| Phonological  | Sounds and how they’re processed |
-| Morphological | Units of meaning and how they combine |
-| Syntactic     | Sentence structure and word order |
-| Semantic      | Word and sentence meaning |
-| Pragmatic     | Meaning in context and interaction |
-
-### Scientific Methods
-
-Common methods include:
-
-- **Reaction time**: How fast people respond to stimuli
-- **Eye-tracking**: Where people look while reading/listening
-- **Priming**: How one stimulus influences response to another
-- **Brain imaging (e.g., fMRI, EEG)**: Where language is processed in the brain
-- **Errors and slips**: What mistakes can reveal about planning and memory
+- Define psycholinguistics and identify its major areas of study.
+- Describe the six core design features of human language.
+- Distinguish between descriptive and prescriptive grammar with examples.
+- Discuss the continuity vs. discontinuity debate in language evolution.
+- Evaluate whether animals can "use language" as humans do.
 
 ---
 
-## 🏷️ Key Terms
+## 📖 Required Reading
 
-| Term | Definition |
-|------|------------|
-| **Psycholinguistics** | The study of the mental processes that underlie language use |
-| **Competence** | A person’s knowledge of language rules and structures |
-| **Performance** | How a person actually uses language in real-life situations |
-| **Modularity** | The idea that mental processes operate in specialized, independent units |
-| **Reaction Time** | The duration between stimulus presentation and behavioral response |
-| **Priming** | When exposure to one stimulus influences the response to another |
+- **Chapter 1 (pp. 1–28)** from *Introduction to Psycholinguistics: Understanding Language Science* (1st ed.) by Matthew Traxler.
 
 ---
 
-## 🧪 Examples & In-Class Activities
+## 📌 Core Concepts
 
-### 🧠 Example: TOT (Tip-of-the-Tongue)
+### 🧠 What is Psycholinguistics?
+Psycholinguistics is the study of how language is processed and represented in the mind. It draws on **linguistics**, **cognitive psychology**, **neuroscience**, and **philosophy**. Key questions include:
 
-> Think of a time you couldn’t retrieve a word you know. You remember the meaning, maybe the first letter or number of syllables—but can’t say it. What does this tell us about how words are stored?
-
-Use this as a springboard to discuss lexical access and memory.
-
----
-
-### 🔬 Example: What Makes Language Scientific?
-
-Compare the sentence:
-
-> “Colorless green ideas sleep furiously.”  
-> 
-> It’s grammatical but meaningless. Why?
-
-→ Use this to introduce the distinction between syntax and semantics.
+- How do we understand and produce speech?
+- How do children acquire language?
+- What brain areas are responsible for language processing?
+- Can animals learn language?
 
 ---
 
-### 🎯 In-Class Activities
+### 🔍 Hockett’s Design Features of Language
+According to Charles Hockett, human language has **six key design features**:
 
-- **Language Myth Quiz**  
-  Debunk statements like “Children learn language by imitation” or “Some languages are more primitive than others.”
-
-- **Pair Work: What Makes Language Special?**  
-  Identify properties of language that are unique to humans (e.g., recursion, displacement, arbitrariness).
-
-- **Research Method Match-Up**  
-  Students are given method names (eye-tracking, reaction time, etc.) and must match them to the types of questions they can answer.
-
----
-
-## ❓ Self-Check Questions
-
-1. What distinguishes **psycholinguistics** from general linguistics or cognitive psychology?
-2. What are some **unique properties of human language** that set it apart from animal communication?
-3. What are some of the **key research questions** psycholinguists study?
-4. How do the methods used in psycholinguistics reflect the **scientific approach**?
-5. Can you give an example of a psycholinguistic phenomenon from your own experience?
+| Feature               | Definition                                                   | Example                              |
+|----------------------|--------------------------------------------------------------|--------------------------------------|
+| **Semanticity**       | Words and signals carry specific meanings                    | "Dog" means a specific kind of animal |
+| **Arbitrariness**     | No natural link between form and meaning                     | "Dog" ≠ "gǒu" ≠ "perro"              |
+| **Discreteness**      | Language consists of distinct, separable units               | /b/ vs. /p/                           |
+| **Displacement**      | Talk about things not present in time/place                  | "I was in Paris last year"           |
+| **Duality of Patterning** | Small units (phonemes) combine into meaningful units (words) | /k/ + /æ/ + /t/ = "cat"              |
+| **Generativity**      | Finite rules create infinite sentences                       | “The cat that chased the rat…”       |
 
 ---
 
-## 🧩 Practice from the Textbook (Adapted)
+### 📚 Descriptive vs. Prescriptive Grammar
 
-> 🧠 Imagine you’re designing a study to test how people understand ambiguous sentences like “The spy saw the cop with the binoculars.”  
-> - What methods might you use?
-> - What would your hypothesis be?
-> - How would you know if your interpretation is correct?
+- **Descriptive grammar**: How people *actually* use language in daily life.
+- **Prescriptive grammar**: Rules about how people *should* speak or write.
+- Linguists focus on **descriptive grammar** to understand language as it is used in real-world contexts.
 
 ---
 
-## Resources
-> [Steven Pinker: Linguistics as a Window to Understanding the Brain](https://www.youtube.com/watch?v=Q-B_ONJIEcE)
+### 🐒 Can Animals Use Language?
+
+We’ll look at famous case studies like:
+
+- **Nim Chimpsky** (ASL-trained chimpanzee): Used signs mostly for requests.
+- **Kanzi** (bonobo using lexigrams): Understood many spoken English words.
+
+Despite some impressive skills, apes lack **syntax**, **recursion**, and **generativity**—hallmarks of human language.
+
+---
+
+### 🌱 Evolution of Language: Continuity vs. Discontinuity
+
+- **Continuity Hypothesis**: Language evolved gradually from primate communication.
+- **Discontinuity Hypothesis**: Language is a qualitatively unique system that appeared suddenly.
+
+These hypotheses are tested through studies in comparative cognition, ape communication, and evolutionary biology.
+
+---
+
+## 📝 Pre-Class Activities
+
+Complete these **before class** to prepare for discussion:
+
+1. ✅ **Read Chapter 1** (pp. 1–28).
+2. ❓ **Language Belief Survey**: What do you believe about language learning, dialects, and animal language? Bring your answers to class for discussion.
+3. 🎧 **Optional Video**: Watch this short intro to human language uniqueness:  
+   [Kanzi the Bonobo Demonstrates Lexigrams (YouTube)](https://www.youtube.com/watch?v=HJZ9DgRGF9U)
+
+---
+
+## 💬 In-Class Activities
+
+- 🧠 **Language Myths Quiz**: Busting common misconceptions about language.
+- 📊 **Survey Discussion**: Comparing student beliefs to psycholinguistic findings.
+- 🔍 **Design Feature Table**: Fill in examples of each design feature with your group.
+- 🐒 **Case Study Analysis**: Nim vs. Kanzi – What counts as "real" language?
+- 📈 **Continuity Debate**: Small group discussion on whether language evolved gradually or suddenly.
+
+---
+
+## 🔁 Post-Class Review
+
+After class, reflect and reinforce your learning:
+
+1. ✍️ **Worksheet**: Complete the Week 1 Knowledge Check (to be provided).
+2. 🧠 **Reflection Prompt**:  
+   > What did you learn today that changed how you think about language?
+
+3. 📚 **Optional Enrichment**:
+   - [Did you know there’s a talking gorilla? – BBC](https://www.youtube.com/watch?v=s1HcU7taTbo)
+   - [Koko the Gorilla Signs – 60 Minutes](https://www.youtube.com/watch?v=1gfoBJnfK9c)
+   - [Pullum’s Critique of the Eskimo Snow Myth (short reading)](https://languagelog.ldc.upenn.edu/nll/?p=219)
+   - [Steven Pinker: Linguistics as a Window to Understanding the Brain](https://www.youtube.com/watch?v=Q-B_ONJIEcE)
+
+---
+
+## 🏠 Homework
+
+- 📖 Re-read key parts of Chapter 1 (esp. design features & ape studies)
+- 📝 Answer the following *Test Yourself* questions from the textbook:
+   - Q1: Design features
+   - Q2: Descriptive vs. prescriptive grammar
+   - Q4: Recursion
+   - Q6: Animal language
+
+- ✍️ **Think About It** (Choose one; ~150 words):  
+   > Imagine you're observing a new primate species. What behavior would convince you they have language?
+
+-->
 
 
 
 
 
 
-
-<!-- 
+<!-- ZJ: previous version; chapter 1
 ## 🧠 Chapter 1 Lecture Notes: An Introduction to Language Science
 
 Welcome to the first chapter of *Introduction to Psycholinguistics*! This chapter lays the foundation for how we understand language as a mental and cognitive system.
